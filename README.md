@@ -1,9 +1,7 @@
-# powerbi-ai-productivity
-Power BI report prepared for recruitment purposes
 # AI Developer Productivity – Power BI Dashboard (Demo)
 
 ## Overview
-This repository contains a **demo Power BI dashboard** analyzing how **AI usage, sleep,
+This repository contains a **Power BI dashboard** analyzing how **AI usage, sleep,
 cognitive load, and caffeine intake** influence developer productivity and commit performance.
 
 The project was created for **recruitment and portfolio purposes**.  
